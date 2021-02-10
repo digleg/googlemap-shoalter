@@ -1,0 +1,4842 @@
+{
+  "storeList": {
+    "chin": {
+      "areaList": {
+        "九龍": {
+          "九龍城區": [
+            "紅磡",
+            "土瓜灣",
+            "黃埔",
+            "啟德",
+            "何文田",
+            "九龍塘",
+            "九龍城"
+          ],
+          "油尖旺區": ["尖沙咀", "旺角西", "旺角", "奧運", "大角咀"],
+          "深水埗區": ["美孚", "荔枝角", "長沙灣"],
+          "觀塘區": ["油塘", "九龍灣", "藍田", "觀塘"],
+          "黃大仙區": ["黃大仙", "鑽石山", "樂富", "慈雲山", "牛池灣"]
+        },
+        "新界": {
+          "元朗區": ["天水圍", "元朗", "錦上路"],
+          "北區": ["粉嶺", "上水", "火炭"],
+          "大埔區": ["馬鞍山", "大埔", "大埔墟", "太和"],
+          "屯門區": ["屯門", "兆康"],
+          "沙田區": ["大圍", "沙田圍", "顯徑", "沙田", "馬鞍山", "科學園"],
+          "荃灣區": ["荃灣", "馬灣", "深井"],
+          "葵青區": ["青衣", "葵芳"],
+          "西貢區": ["寶琳", "坑口", "調景嶺", "西貢"],
+          "離島": ["東涌"]
+        },
+        "港島": {
+          "中西區": ["中環", "西營盤", "堅尼地城", "金鐘", "西環"],
+          "南區": ["海怡半島", "利東", "香港仔", "薄扶林"],
+          "東區": [
+            "杏花村",
+            "北角",
+            "小西灣",
+            "柴灣",
+            "炮台山",
+            "筲箕灣",
+            "太古",
+            "鰂魚涌",
+            "西灣河"
+          ],
+          "灣仔區": ["跑馬地", "灣仔", "銅鑼灣"]
+        }
+      },
+      "details": [
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 鴨脷洲海怡半島海怡路12A號海怡西商場地下33C及D號",
+          "area": "海怡半島",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.244067, 114.14681],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "海怡西商場店",
+          "specialOpening": "",
+          "subdistrict": "南區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 荃灣怡康街 2-12號海濱花園 B平台地下121號舖",
+          "area": "荃灣",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3619232, 114.11297],
+            "type": "Point"
+          },
+          "opening": "星期一至五 12:00nn - 9:00pm; 星期六、日 及公眾假期 11:00am – 9:00pm",
+          "shop": "荃灣海濱花園店",
+          "specialOpening": "",
+          "subdistrict": "荃灣區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 美孚新邨荔灣道10-16號萬事達廣場1-11及15-17號N61A地舖",
+          "area": "美孚",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3379115, 114.13849],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "美孚萬事達廣場店",
+          "specialOpening": "",
+          "subdistrict": "深水埗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 中環羅便臣道30-32號寶時大廈大廳地下A舖",
+          "area": "中環",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.279358, 114.15174],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "中環羅便臣道店",
+          "specialOpening": "",
+          "subdistrict": "中西區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 將軍澳寶琳欣景路8號新都城中心二期UG049號舖",
+          "area": "寶琳",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3228355, 114.25842],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "寶琳新都城中心店",
+          "specialOpening": "",
+          "subdistrict": "西貢區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 杏花村盛泰道100號杏花新城216號舖",
+          "area": "杏花村",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2771393, 114.23967],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "杏花新城店",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 北角和富道38-48號豐昌大廈地下5號舖",
+          "area": "北角",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2917451, 114.19601],
+            "type": "Point"
+          },
+          "opening": "星期一至五 12:00nn - 9:00pm; 星期六、日 及公眾假期 10:00am – 9:00pm",
+          "shop": "北角和富店",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵天水圍站TIS5號舖",
+          "area": "天水圍",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.448281, 114.00468],
+            "type": "Point"
+          },
+          "opening": "星期一至五 12:00nn - 9:00pm; 星期六、日 及公眾假期 11:00am – 9:00pm",
+          "shop": "港鐵天水圍站店",
+          "specialOpening": "",
+          "subdistrict": "元朗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵坑口站HAH7號舖",
+          "area": "坑口",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.315596, 114.26439],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵坑口站店",
+          "specialOpening": "",
+          "subdistrict": "西貢區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵大圍站TAW49號舖",
+          "area": "大圍",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3731397, 114.179],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵大圍站店",
+          "specialOpening": "",
+          "subdistrict": "沙田區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 元朗建業街88號仁義大廈地下C舖",
+          "area": "元朗",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4424223, 114.0314],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 8:00pm",
+          "shop": "元朗建業街店",
+          "specialOpening": "",
+          "subdistrict": "元朗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 西環西營盤第一街79號地下B號舖",
+          "area": "西營盤",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2866515, 114.14183],
+            "type": "Point"
+          },
+          "opening": "星期一至五 12:00nn - 9:00pm; 星期六、日 及公眾假期 10:00am – 9:00pm",
+          "shop": "西營盤第一街店",
+          "specialOpening": "",
+          "subdistrict": "中西區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 西環堅尼地城士美菲路45-51號地下低層3號舖",
+          "area": "堅尼地城",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2816356, 114.12809],
+            "type": "Point"
+          },
+          "opening": "星期一至五 11:00am - 9:00pm; 星期六、日 及公眾假期 10:00am – 9:00pm",
+          "shop": "堅尼地城士美菲路店",
+          "specialOpening": "",
+          "subdistrict": "中西區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 馬鞍山鞍祿街18號新港城中心2樓2407及2408舖",
+          "area": "馬鞍山",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4242753, 114.23278],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 8:30pm",
+          "shop": "馬鞍山新港城店",
+          "specialOpening": "",
+          "subdistrict": "大埔區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 大埔廣場地下4001-4002號舖",
+          "area": "大埔",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.45281, 114.17052],
+            "type": "Point"
+          },
+          "opening": "星期一至五 11:30am - 8:30pm; 星期六、日 及公眾假期 10:30am – 8:30pm",
+          "shop": "大埔廣場店",
+          "specialOpening": "",
+          "subdistrict": "大埔區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 粉嶺花都廣場地下125號舖",
+          "area": "粉嶺",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4858038, 114.14121],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:30am – 8:30pm",
+          "shop": "粉嶺花都廣場店",
+          "specialOpening": "",
+          "subdistrict": "北區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵青衣站TSY 6號舖",
+          "area": "青衣",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.358487, 114.10726],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "港鐵青衣站店",
+          "specialOpening": "",
+          "subdistrict": "葵青區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 港鐵九龍站KOW 66號舖",
+          "area": "尖沙咀",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.304394, 114.16143],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵九龍站店",
+          "specialOpening": "",
+          "subdistrict": "油尖旺區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 紅磡德民街36號D黃埔新邨可富樓地下5L舖",
+          "area": "紅磡",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3055915, 114.18579],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "紅磡新邨店",
+          "specialOpening": "",
+          "subdistrict": "九龍城區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 油塘高超道38號大本型地下G33號舖",
+          "area": "油塘",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.2964531, 114.2365],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "油塘大本型店",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 九龍灣淘大商場地下58-58A號舖",
+          "area": "九龍灣",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3247088, 114.21548],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "九龍灣淘大商場店",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 港鐵調景嶺站TIK 7號舖",
+          "area": "調景嶺",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3040579, 114.25163],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵調景嶺站店",
+          "specialOpening": "",
+          "subdistrict": "西貢區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵東涌站TUC27號舖",
+          "area": "東涌",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.289163, 113.94126],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "港鐵東涌站店",
+          "specialOpening": "",
+          "subdistrict": "離島"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 港鐵荔枝角站LCK 9號舖",
+          "area": "荔枝角",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.33718, 114.14805],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵荔枝角站店",
+          "specialOpening": "",
+          "subdistrict": "深水埗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 荔枝角昇悅商場1樓122B2號舖",
+          "area": "荔枝角",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.335267, 114.14897],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "荔枝角昇悅居店",
+          "specialOpening": "",
+          "subdistrict": "深水埗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 小西灣道18號富景花園地下8號舖",
+          "area": "小西灣",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.262719, 114.25173],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "小西灣富景花園店",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 北角健威坊低層地下L3號舖",
+          "area": "北角",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2916704, 114.20344],
+            "type": "Point"
+          },
+          "opening": "星期一至五 11:00am - 9:00pm; 星期六、日 及公眾假期 10:00am – 9:00pm",
+          "shop": "北角健威店",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 馬灣田寮新村45號地舖",
+          "area": "馬灣",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.351958, 114.05838],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 9:00pm",
+          "shop": "馬灣田寮新村店",
+          "specialOpening": "",
+          "subdistrict": "荃灣區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 柴灣道350號樂軒臺地下412號舖",
+          "area": "柴灣",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2638824, 114.24054],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 9:00pm",
+          "shop": "柴灣樂軒臺",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 沙田沙田圍路9-11號田園閣地下A舖",
+          "area": "沙田圍",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3799494, 114.19586],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:30am – 8:30pm",
+          "shop": "沙田田園閣店",
+          "specialOpening": "",
+          "subdistrict": "沙田區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 葵芳葵涌廣場地下A53A號舖",
+          "area": "葵芳",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3584199, 114.12749],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "葵涌廣場店",
+          "specialOpening": "",
+          "subdistrict": "葵青區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵大埔墟站TAP 3號舖 (近B出口)",
+          "area": "大埔墟",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4442739, 114.17083],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵大埔墟站店",
+          "specialOpening": "",
+          "subdistrict": "大埔區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 粉嶺新運路33號粉嶺中心1樓233E及284A舖",
+          "area": "粉嶺",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.490836, 114.14065],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:30am – 8:30pm",
+          "shop": "粉嶺中心店",
+          "specialOpening": "粉嶺中心擴充店將於2月10日開幕！\n限時７日，全場95折！",
+          "subdistrict": "北區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 旺角西海庭道16號富榮花園地下B舖",
+          "area": "旺角西",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3148072, 114.16402],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "旺角富榮花園店",
+          "specialOpening": "",
+          "subdistrict": "油尖旺區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 屯門景峰徑2號景峰花園商場地下G5舖",
+          "area": "屯門",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4031874, 113.97968],
+            "type": "Point"
+          },
+          "opening": "星期一至五 12:00nn - 9:00pm; 星期六、日 及公眾假期 11:00am – 9:00pm",
+          "shop": "屯門景峰花園店",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵兆康站店SIH17號舖",
+          "area": "兆康",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4111638, 113.97865],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵兆康站店",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 荃灣青山公路398號愉景新城L2樓2025號舖",
+          "area": "荃灣",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3762088, 114.11188],
+            "type": "Point"
+          },
+          "opening": "星期一至五 11:00am - 9:00pm; 星期六、日 及公眾假期 10:00am – 9:00pm",
+          "shop": "荃灣愉景新城店",
+          "specialOpening": "",
+          "subdistrict": "荃灣區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵錦上路站8號舖 (鄰近A及B出口)",
+          "area": "錦上路",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4354344, 114.06289],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵錦上路站店",
+          "specialOpening": "",
+          "subdistrict": "元朗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 青衣宏福花園商場地下1號舖",
+          "area": "青衣",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3549531, 114.10747],
+            "type": "Point"
+          },
+          "opening": "星期一至五 11:00am - 9:00pm; 星期六、日 及公眾假期 10:00am – 9:00pm",
+          "shop": "青衣宏福花園店",
+          "specialOpening": "",
+          "subdistrict": "葵青區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 元朗教育路2-6號捷榮樓地下D舖",
+          "area": "元朗",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4430278, 114.0285],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "元朗教育路店",
+          "specialOpening": "",
+          "subdistrict": "元朗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 藍田匯景廣場4樓2C舖",
+          "area": "藍田",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3067922, 114.23384],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "藍田滙景廣場店",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 土瓜灣馬頭角道28號金都豪苑地下7號舖",
+          "area": "土瓜灣",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3222846, 114.18922],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "土瓜灣馬頭角道店",
+          "specialOpening": "",
+          "subdistrict": "九龍城區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 天水圍置富嘉湖商場1期地下G84B舖",
+          "area": "天水圍",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4574774, 114.00267],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:30am – 9:00pm",
+          "shop": "天水圍置富嘉湖店",
+          "specialOpening": "",
+          "subdistrict": "元朗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 跑馬地成和道39E號海怡閣地下6號舖",
+          "area": "跑馬地",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2690658, 114.18602],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "跑馬地成和道店",
+          "specialOpening": "",
+          "subdistrict": "灣仔區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 灣仔軒尼詩道274-288號英皇集團中心地下G15號舖",
+          "area": "灣仔",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2776855, 114.17682],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 9:00pm",
+          "shop": "灣仔英皇集團中心店",
+          "specialOpening": "",
+          "subdistrict": "灣仔區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 黃大仙彩虹道121號啟德花園購物商場地下9號舖",
+          "area": "黃大仙",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3376972, 114.19447],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 8:00pm",
+          "shop": "黃大仙啟德花園店",
+          "specialOpening": "",
+          "subdistrict": "黃大仙區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 上水智昌路3號上水中心2樓2029號舖",
+          "area": "上水",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.5010601, 114.12931],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 8:30pm",
+          "shop": "上水中心店",
+          "specialOpening": "",
+          "subdistrict": "北區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 旺角彌敦道580號恆隆大廈地下6號舖",
+          "area": "旺角",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3153341, 114.1705155],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "旺角登打士街店",
+          "specialOpening": "",
+          "subdistrict": "油尖旺區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 灣仔春園街1-11號春暉大廈地下7號舖",
+          "area": "灣仔",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2761934, 114.17275],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "灣仔春園街店",
+          "specialOpening": "",
+          "subdistrict": "灣仔區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 元朗錦繡花園商業中心E座地下10號舖",
+          "area": "元朗",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4771388, 114.045149],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "元朗錦鏽花園店",
+          "specialOpening": "",
+          "subdistrict": "元朗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 美孚新村百老匯街79號美孚廣場地下95A舖",
+          "area": "美孚",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3359726, 114.14138],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "美孚廣場店",
+          "specialOpening": "",
+          "subdistrict": "深水埗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵荃灣站TSW 8號舖 (近C出口)",
+          "area": "荃灣",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3737277, 114.1177077],
+            "type": "Point"
+          },
+          "opening": "星期一至五 12:00nn - 9:00pm; 星期六、日 及公眾假期 11:00am – 9:00pm",
+          "shop": "港鐵荃灣站店",
+          "specialOpening": "",
+          "subdistrict": "荃灣區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 火炭駿景路1號駿景廣場地下G36-37號舖",
+          "area": "火炭",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.399935, 114.20221],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 8:30pm",
+          "shop": "火炭駿景園店",
+          "specialOpening": "",
+          "subdistrict": "北區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 屯門湖翠路168-236號海趣坊6號舖",
+          "area": "屯門",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3726825, 113.96634],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "屯門海趣坊店",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 中環堅道80-88號堅都大廈地下E舖",
+          "area": "中環",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2817443, 114.15125],
+            "type": "Point"
+          },
+          "opening": "星期一至五 12:00nn - 9:00pm; 星期六、日 及公眾假期 10:00am – 9:00pm",
+          "shop": "中環堅道店",
+          "specialOpening": "",
+          "subdistrict": "中西區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵荃灣西站TWW 24-25號舖 (近C2出口)",
+          "area": "荃灣",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.367556, 114.1105736],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵荃灣西站店",
+          "specialOpening": "",
+          "subdistrict": "荃灣區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 港鐵黃埔站WHA W1號舖 (近B出口)",
+          "area": "黃埔",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3052332, 114.1884204],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵黃埔站店",
+          "specialOpening": "",
+          "subdistrict": "九龍城區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 港鐵利東站LET 1號舖 (近A1出口)",
+          "area": "利東",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.243741, 114.1552903],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵利東站店",
+          "specialOpening": "",
+          "subdistrict": "南區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 大埔翠怡街3號翠怡花園地下3號舖",
+          "area": "大埔",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.452516, 114.1635904],
+            "type": "Point"
+          },
+          "opening": "星期一至五 11:00am - 9:00pm; 星期六、日 及公眾假期 10:00am – 9:00pm",
+          "shop": "大埔翠怡花園店",
+          "specialOpening": "",
+          "subdistrict": "大埔區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 港鐵啟德站KAT 4號舖 (近D出口)",
+          "area": "啟德",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3308862, 114.1991582],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵啟德站店",
+          "specialOpening": "",
+          "subdistrict": "九龍城區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵顯徑站HIK 5號舖 (近A出口)",
+          "area": "顯徑",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3636515, 114.1708798],
+            "type": "Point"
+          },
+          "opening": "星期一至五 11:30am - 8:30pm; 星期六、日 及公眾假期 10:00am – 9:00pm",
+          "shop": "港鐵顯徑站店",
+          "specialOpening": "",
+          "subdistrict": "沙田區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 港鐵鑽石山站DIH 109號舖 (近B出口)",
+          "area": "鑽石山",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3396421, 114.2016546],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵鑽石山站店",
+          "specialOpening": "",
+          "subdistrict": "黃大仙區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 金鐘金鐘廊一樓B08號舖",
+          "area": "金鐘",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2791978, 114.1644627],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 8:00pm",
+          "shop": "金鐘金鐘廊店",
+          "specialOpening": "",
+          "subdistrict": "中西區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "港島 港鐵炮台山站店FOH13號舖",
+          "area": "炮台山",
+          "category": "O2O Shop",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2882568, 114.1939502],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 9:00pm",
+          "shop": "港鐵炮台山站店",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵屯門站店TUM19-20號舖 (閘內)",
+          "area": "屯門",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3952839, 113.9730157],
+            "type": "Point"
+          },
+          "opening": "星期一至五 12:00nn - 9:00pm; 星期六、日 及公眾假期 11:00am – 9:00pm",
+          "shop": "港鐵屯門站店",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 荃灣青山公路625號 麗城花園三期麗城薈地下9號舖",
+          "area": "荃灣",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3721792, 114.1011433],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:30am – 9:00pm",
+          "shop": "荃灣麗城花園店",
+          "specialOpening": "",
+          "subdistrict": "荃灣區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 九龍灣德福廣場平台P24-P25號舖 (MCL戲院對面)",
+          "area": "九龍灣",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.322536, 114.212176],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "九龍灣德福廣場店",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "香港 筲箕灣東大街59-99號東威大廈3座2號舖地下",
+          "area": "筲箕灣",
+          "category": "Pick-up Service Partner",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.27972, 114.23046],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 21:00pm",
+          "shop": "筲箕灣東大街 FoodWise 自取點",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 長沙灣元州街358號尚南天地下3號舖",
+          "area": "長沙灣",
+          "category": "Pick-up Service Partner",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.33796, 114.15621],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 8:00pm",
+          "shop": "長沙灣元州街 FoodWise 自取點",
+          "specialOpening": "",
+          "subdistrict": "深水埗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "N",
+          "address": "九龍 何文田廣場地下9號舖",
+          "area": "何文田",
+          "category": "Pick-up Service Partner",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.316137, 114.181546],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "何文田廣場鴻福堂自取點",
+          "specialOpening": "",
+          "subdistrict": "九龍城區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 觀塘秀茂坪商場3樓301B號舖",
+          "area": "觀塘",
+          "category": "Pick-up Service Partner",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.319502, 114.232188],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:30am – 9:00pm",
+          "shop": "觀塘秀茂坪商場鴻福堂自取點",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 深井青山公路33號碧堤坊3樓07號舖",
+          "area": "深井",
+          "category": "Pick-up Service Partner",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.36738, 114.0614],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "深井碧堤坊鴻福堂自取點",
+          "specialOpening": "",
+          "subdistrict": "荃灣區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港 太古太古城道18號太古城中心3樓 306 號舖",
+          "area": "太古",
+          "category": "Pick-up Service Partner",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.285682, 114.217531],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 7:30pm",
+          "shop": "太古太古城中心 佐丹奴自取點",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界 沙田廣場3樓49號舖",
+          "area": "沙田",
+          "category": "Pick-up Service Partner",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.38149, 114.18892],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:30an – 9:00pm",
+          "shop": "沙田廣場 佐丹奴自取點",
+          "specialOpening": "",
+          "subdistrict": "沙田區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港 柴灣新翠商場L1層125-128舖",
+          "area": "柴灣",
+          "category": "Pick-up Service Partner",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.26771, 114.24054],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 7:30pm",
+          "shop": "柴灣新翠商場 佐丹奴自取點",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港 西環卑路乍街八號西寶城高層地下UG05號舖",
+          "area": "西環",
+          "category": "Pick-up Service Partner",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.285761, 114.133184],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 8:00pm",
+          "shop": "西環西寶城 Baleno自取點",
+          "specialOpening": "",
+          "subdistrict": "中西區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界 大埔太和路12號太和廣場2樓230-231號舖",
+          "area": "太和",
+          "category": "Pick-up Service Partner",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.450751, 114.160357],
+            "type": "Point"
+          },
+          "opening": "星期一至日 9:30am – 8:30pm",
+          "shop": "太和太和廣場 Baleno自取點",
+          "specialOpening": "",
+          "subdistrict": "大埔區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍 奧海城 2 期地下上層 UG48 號舖",
+          "area": "奧運",
+          "category": "Pick-up Service Partner",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.317258, 114.162105],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 8:00pm",
+          "shop": "奧運奧海城 2 期 佐丹奴自取點",
+          "specialOpening": "",
+          "subdistrict": "油尖旺區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港 中環德輔道中 27 號安樂園大廈地舖",
+          "area": "中環",
+          "category": "Pick-up Service Partner",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.283102, 114.157868],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 7:00pm",
+          "shop": "中環安樂園 佐丹奴自取點",
+          "specialOpening": "",
+          "subdistrict": "中西區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界 屯門屯門市廣場二期一樓 39 - 42 號舖",
+          "area": "屯門",
+          "category": "Pick-up Service Partner",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.394221, 113.976417],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 8:00pm",
+          "shop": "屯門市廣場二期 佐丹奴自取點",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港 香港仔中心地下 4 號舖",
+          "area": "香港仔",
+          "category": "Pick-up Service Partner",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.248838, 114.153923],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:30am – 8:00pm",
+          "shop": "香港仔香港仔中心 佐丹奴自取點",
+          "specialOpening": "",
+          "subdistrict": "南區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍 旺角亞皆老街8號朗豪坊B2層22-23號舖",
+          "area": "旺角",
+          "category": "Pick-up Service Partner",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.318043, 114.168798],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 8:00pm",
+          "shop": "旺角朗豪坊 CATALO自取點",
+          "specialOpening": "",
+          "subdistrict": "油尖旺區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 聯合道198號樂富廣場A 區3樓3133A號舖",
+          "area": "樂富",
+          "category": "Pick-up Service Partner",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.338461, 114.187006],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:30pm",
+          "shop": "樂富樂富廣場 鴻福堂自取點",
+          "specialOpening": "",
+          "subdistrict": "黃大仙區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "N",
+          "address": "香港 香港仔湖南街1-3號安泰大廈地下C號舖",
+          "area": "香港仔",
+          "category": "Pick-up Service Partner",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.247751, 114.155608],
+            "type": "Point"
+          },
+          "opening": "星期一至五 8:00am- 9:30pm; 星期六、日 及公眾假期 9:30am – 9:30pm",
+          "shop": "香港仔湖南街鴻 福堂自取點",
+          "specialOpening": "",
+          "subdistrict": "南區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "香港 北角英皇道238號康澤花園地下A1號舖",
+          "area": "炮台山",
+          "category": "Pick-up Service Partner",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.288505, 114.193846],
+            "type": "Point"
+          },
+          "opening": "星期一至五 8:00am- 10:00pm; 星期六、日 及公眾假期 8:30am – 10:00pm",
+          "shop": "炮台山康澤花園 鴻福堂自取點",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "N",
+          "address": "九龍 竹園南邨商場2樓S221號舖",
+          "area": "黃大仙",
+          "category": "Pick-up Service Partner",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.344894, 114.192941],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 9:00pm",
+          "shop": "黃大仙竹園南邨商場 鴻福堂自取點",
+          "specialOpening": "",
+          "subdistrict": "黃大仙區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "N",
+          "address": "新界 元朗天水圍天華路30號天頌苑T Town South地下SG03號舖",
+          "area": "天水圍",
+          "category": "Pick-up Service Partner",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.461223, 113.997921],
+            "type": "Point"
+          },
+          "opening": "星期一至日 9:30am – 10:00pm",
+          "shop": "天水圍頌富 鴻福堂自取點",
+          "specialOpening": "",
+          "subdistrict": "元朗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 天水圍天瑞路71, 73, 75及77號天澤邨天澤商場地下2號舖",
+          "area": "天水圍",
+          "category": "Pick-up Service Partner",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.468526, 113.998647],
+            "type": "Point"
+          },
+          "opening": "星期一至五 10:00am- 9:00pm; 星期六、日 及公眾假期 11:00am – 8:30pm",
+          "shop": "天水圍天澤商場 鴻福堂自取點",
+          "specialOpening": "",
+          "subdistrict": "元朗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "N",
+          "address": "新界 馬鞍山恆安邨購物中心2/F 218A號舖",
+          "area": "馬鞍山",
+          "category": "Pick-up Service Partner",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.416739, 114.227938],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 9:00pm",
+          "shop": "馬鞍山恆安邨購物中心 鴻福堂自取點",
+          "specialOpening": "",
+          "subdistrict": "沙田區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 大埔安邦路 8及10號大埔超級城 E 區2樓 356C 號舖",
+          "area": "大埔",
+          "category": "Pick-up Service Partner",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.449598, 114.168703],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:30am – 8:30pm",
+          "shop": "大埔超級城 鴻福堂自取點",
+          "specialOpening": "",
+          "subdistrict": "大埔區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "N",
+          "address": "新界 東涌逸東街8號逸東邨逸東商場地下32號舖",
+          "area": "東涌",
+          "category": "Pick-up Service Partner",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.281516, 113.934875],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:30am – 10:00pm",
+          "shop": "東涌逸東商場 鴻福堂自取點",
+          "specialOpening": "",
+          "subdistrict": "離島"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍 黃大仙龍翔道黃大仙中心 1 樓北館 N109 - 110 號舖",
+          "area": "黃大仙",
+          "category": "Pick-up Service Partner",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.341899, 114.192515],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 8:00pm",
+          "shop": "黃大仙中心 佐丹奴自取點",
+          "specialOpening": "",
+          "subdistrict": "黃大仙區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍 橫頭磡聯合道 198 號樂富廣場 B 區 UG1 樓 U118 號舖",
+          "area": "樂富",
+          "category": "Pick-up Service Partner",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.337625, 114.187411],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 8:00pm",
+          "shop": "樂富樂富廣場 佐丹奴自取點",
+          "specialOpening": "",
+          "subdistrict": "黃大仙區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍 大角咀福利街8號港灣豪庭廣場地下12號舖",
+          "area": "大角咀",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.324811, 114.160502],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "港灣豪庭廣場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "油尖旺區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界 屯門屯喜路2號屯門栢麗廣場1樓(158號舖旁)",
+          "area": "屯門",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.391256, 113.97731],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "柏麗廣場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界 寶琳北路18號寶林商場3樓",
+          "area": "寶琳",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.325266, 114.256226],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "寶林商場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "西貢區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界 沙田白石角香港科學園第一期科技大道西5號企業廣場地下太平洋咖啡對面",
+          "area": "科學園",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.425791, 114.212489],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "香港科學園Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "沙田區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界屯門龍門路55-65號新屯門中心2樓 No. 31-33號舖 (近輕鐵天橋出入口)",
+          "area": "屯門",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.381332, 113.964516],
+            "type": "Point"
+          },
+          "opening": "星期一至日5:00am 至 1:00am",
+          "shop": "新屯門中心商場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界 屯門友愛路友愛商場S區地下 (金泰園餐廳近旁的廁所出入口)",
+          "area": "屯門",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.388052, 113.975599],
+            "type": "Point"
+          },
+          "opening": "星期一至日4:00am 至 00:30am",
+          "shop": "H.A.N.D.S Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界 屯門田景路31號良景廣場 L209號舖旁 (大家樂旁)",
+          "area": "屯門",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.406356, 113.9627],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "良景廣場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界 元朗天水圍天瑞路71, 73, 75及77號天澤商場3樓電梯大堂",
+          "area": "天水圍",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.468524, 113.999034],
+            "type": "Point"
+          },
+          "opening": "星期一至日6:00am 至 00:00am",
+          "shop": "天澤商場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "元朗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 荃灣楊屋道1號荃新天地1期地下G19B號舖 (街市對面)",
+          "area": "荃灣",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3700949854957, 114.11388090051],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 8:00pm",
+          "shop": "荃灣荃新天地店",
+          "specialOpening": "",
+          "subdistrict": "荃灣區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 觀塘鯉魚門道8號",
+          "area": "觀塘",
+          "category": "Pick-up Service Partner",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3104298734073, 114.229178787922],
+            "type": "Point"
+          },
+          "opening": "星期一至日 9:00am – 9:00pm",
+          "shop": "鯉魚門道蜆殼自取點",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "香港 中環天星碼頭連接大樓 8號碼頭 1樓 2號舖",
+          "area": "中環",
+          "category": "Pick-up Service Partner",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2866075151367, 114.161709633646],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:30am – 8:30pm",
+          "shop": "中環碼頭寶達食品超市自取點",
+          "specialOpening": "",
+          "subdistrict": "中西區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 觀塘開源道72號溢財中心地下B3號舖",
+          "area": "觀塘",
+          "category": "Pick-up Service Partner",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.311861, 114.226549],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:30am – 8:30pm",
+          "shop": "開源道寶達食品超市自取點",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 沙田橫壆街2-16號沙田中心322號舖",
+          "area": "沙田",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3827161949306, 114.19040640853],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "沙田中心店",
+          "specialOpening": "",
+          "subdistrict": "沙田區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 大角咀福利街8號港灣豪庭廣場G42-44號舖",
+          "area": "大角咀",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3246824060659, 114.161492283539],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "大角咀港灣豪庭店",
+          "specialOpening": "",
+          "subdistrict": "油尖旺區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 西貢市親民街16號西貢花園地下17號舖",
+          "area": "西貢",
+          "category": "Pick-up Service Partner",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3822756292723, 114.272054912198],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "西貢 - 西貢花園寶達食品超市自取點",
+          "specialOpening": "",
+          "subdistrict": "西貢區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界 馬鞍山錦英路1號錦龍苑龍欣閣旁邊通道",
+          "area": "馬鞍山",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4261028992804, 114.240618393165],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "錦龍苑Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "沙田區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港 數碼港道100號數碼港3座3樓B區The Arcade出入口旁",
+          "area": "薄扶林",
+          "category": "e-locker",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2598483622408, 114.132027723275],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "數碼港3座Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "南區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍 黃大仙竹園道55號天馬苑商場地下",
+          "area": "黃大仙",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3429173298637, 114.187183077141],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "天馬苑商場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "黃大仙區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港 大坑白建時道5號牛奶公司白建時道商場地下（近匯豐銀行櫃員機)",
+          "area": "灣仔",
+          "category": "e-locker",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2707331559227, 114.192077021998],
+            "type": "Point"
+          },
+          "opening": "星期一至日 8:00am – 10:00pm",
+          "shop": "牛奶公司白建時道商場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "灣仔區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港 鰂魚涌英皇道979號太古坊林肯大廈地下（扶手電梯底）",
+          "area": "鰂魚涌",
+          "category": "e-locker",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2877824401792, 114.212265226261],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "林肯大廈Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港 鰂魚涌英皇道979號太古坊電訊盈科中心1樓（近Pure Fitness 29號升降機旁）",
+          "area": "鰂魚涌",
+          "category": "e-locker",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2873593045646, 114.212320243448],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "電訊盈科中心Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍 九龍塘達之路80號又一城P2電梯旁",
+          "area": "九龍塘",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3371569115292, 114.175239956658],
+            "type": "Point"
+          },
+          "opening": "星期一至日 8:00am – 11:00pm",
+          "shop": "又一城Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "九龍城區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍 觀塘開源道60號駱駝漆大廈第三座G/F (電錶房旁)",
+          "area": "觀塘",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3104634140142, 114.224813658232],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "駱駝漆大廈第三座Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港 銅鑼灣告士打道 311 號地庫No. B10A號舖",
+          "area": "銅鑼灣",
+          "category": "e-locker",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.280651252681, 114.18709791035],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 10:00pm",
+          "shop": "皇室堡Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "灣仔區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港 香港仔南寧街9號香港仔中心商場二期2樓10A號舖",
+          "area": "香港仔",
+          "category": "e-locker",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.248434596871, 114.153352470436],
+            "type": "Point"
+          },
+          "opening": "星期一至日 10:00am – 10:00pm",
+          "shop": "香港仔中心Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "南區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍 九龍城賈炳達道128號九龍城廣場LG樓層(豐澤對面)",
+          "area": "九龍城",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3312238663915, 114.188101872284],
+            "type": "Point"
+          },
+          "opening": "星期一至日 8:00am – 11:00pm",
+          "shop": "九龍城廣場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "九龍城區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍鑽石山鳳德道111號鳳德商場2樓(近203號舖）",
+          "area": "鑽石山",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3435606752905, 114.200674033647],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "鑽石山 - 鳳德商場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "黃大仙區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "沙田冠華大廈地下A37號舖",
+          "area": "沙田",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3830566956519, 114.206704650265],
+            "type": "Point"
+          },
+          "opening": "星期一至日 8:00am – 10:00pm",
+          "shop": "冠華大廈Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "沙田區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍觀塘嘉樂街8號宏業樓地下6號鋪",
+          "area": "觀塘",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3165842913893, 114.225495124415],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "嘉樂街洗衣寶Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界屯門何福堂竹苑9A鋪",
+          "area": "屯門",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3971489926756, 113.977147626262],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "竹苑洗衣寶Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍觀塘秀茂坪秀明道101號秀茂坪商場3樓 (301號舖對面)",
+          "area": "觀塘",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3180118527185, 114.232683264328],
+            "type": "Point"
+          },
+          "opening": "星期一至日 6:00am – 12:00pm",
+          "shop": "秀茂坪商場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港小西灣小西灣道10號小西灣廣場1樓大家樂外",
+          "area": "小西灣",
+          "category": "e-locker",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2625986117576, 114.248948432013],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "小西灣廣場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界沙田小瀝源牛皮沙街2號愉翠商場 (M/F–商場控制室下一層)",
+          "area": "沙田",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3823440172452, 114.205449762483],
+            "type": "Point"
+          },
+          "opening": "星期一至日 7:00am – 12:00pm",
+          "shop": "愉翠商場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "沙田區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界粉嶺一鳴路23號牽晴間購物廣場一樓103號店旁",
+          "area": "粉嶺",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4871807514767, 114.144392854529],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "牽晴間購物廣場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "北區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "尖沙咀漆咸道南6165號,首都廣場, 2樓, S162號舖",
+          "area": "尖沙咀",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.2999579519851, 114.175912337339],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 10:00pm",
+          "shop": "首都廣場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "油尖旺區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "觀塘海濱道123號綠景NEO地下近停車場入口右邊",
+          "area": "觀塘",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3141298175453, 114.216381056943],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "綠景EO Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界屯門海榮路 22 號中央廣場寫字樓地下",
+          "area": "屯門",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3815025772333, 113.972206096857],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "屯門中央廣場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港九龍慈雲山欣華街12號慈安苑安康閣地下",
+          "area": "慈雲山",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3483950600492, 114.201339641602],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "慈安苑安康閣Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "黃大仙區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "香港九龍灣宏光道1號億京中心G/F停車場",
+          "area": "九龍灣",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3217047830643, 114.20643227413],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "億京中心Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "九龍觀塘道370號創紀之城三期三樓電梯大堂 (停車場樓層)",
+          "area": "觀塘",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3148063167274, 114.220092593164],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "創紀之城三期Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "觀塘區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "亞皆老街8號朗豪坊4樓咨詢處附近的辦公樓電梯入口",
+          "area": "旺角",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3185354849026, 114.168498432085],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 11:00pm",
+          "shop": "朗豪坊Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "油尖旺區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "大角咀鐵樹街24號",
+          "area": "大角咀",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3198913359135, 114.163237882085],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "鐵樹街365 Laudry Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "油尖旺區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "屯門富泰邨富泰商場2樓LK.03 (富泰郵政局對面)",
+          "area": "屯門",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4137947955882, 113.983070533143],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "富泰商場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "尖東加連威老道100號港晶中心地下4147號舖對出",
+          "area": "尖沙咀",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3009402462775, 114.178792581361],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "港晶中心Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "油尖旺區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "牛池灣清水灣道45號彩雲(一)邨彩雲商場三期2樓屈臣氏旁",
+          "area": "牛池灣",
+          "category": "e-locker",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3339046314317, 114.214914340138],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "彩雲商場Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "黃大仙區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "西灣河街122&124號萬興樓地下A號舖",
+          "area": "西灣河",
+          "category": "e-locker",
+          "district": "港島",
+          "geometry": {
+            "coordinates": [22.2821334792012, 114.221582387624],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "西灣河街自洗王國Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "東區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 長沙灣元州街388號肇如大廈地下D舖",
+          "area": "長沙灣",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3384943967427, 114.155560660773],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "長沙灣元州街店",
+          "specialOpening": "",
+          "subdistrict": "深水埗區"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "新界馬鞍山錦英路9號錦英商場二樓",
+          "area": "馬鞍山",
+          "category": "e-locker",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.42397, 114.2384],
+            "type": "Point"
+          },
+          "opening": "24小時營業",
+          "shop": "錦英苑Alfred智能櫃",
+          "specialOpening": "",
+          "subdistrict": "沙田區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 粉嶺馬適路1號逸峯廣場地下15號舖",
+          "area": "粉嶺",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.5010090456324, 114.146109612457],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:30am – 8:30pm",
+          "shop": "粉嶺逸峯廣場店",
+          "specialOpening": "",
+          "subdistrict": "北區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "九龍 黃大仙龍翔道110號翔盈里2B號舖",
+          "area": "黃大仙",
+          "category": "O2O Shop",
+          "district": "九龍",
+          "geometry": {
+            "coordinates": [22.3423747067946, 114.196966310607],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 8:00pm",
+          "shop": "黃大仙翔盈里店",
+          "specialOpening": "",
+          "subdistrict": "黃大仙區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 港鐵朗屏站LOP 24號舖 (近A出口)",
+          "area": "元朗",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4476912528165, 114.02420398554],
+            "type": "Point"
+          },
+          "opening": "星期一至日 12:00nn – 9:00pm",
+          "shop": "港鐵朗屏站店",
+          "specialOpening": "",
+          "subdistrict": "元朗區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 東涌健東路1號映灣薈1樓5B號舖",
+          "area": "東涌",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.2918177764958, 113.949276453807],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 8:00pm",
+          "shop": "東涌映灣薈店",
+          "specialOpening": "",
+          "subdistrict": "離島"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 屯門時代廣場南翼2樓8號舖",
+          "area": "屯門",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.3921710234739, 113.975924076217],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 8:00pm",
+          "shop": "屯門時代廣場店",
+          "specialOpening": "",
+          "subdistrict": "屯門區"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "新界 元朗區天水圍北天秀路8號天一商城1樓1109號舖",
+          "area": "天水圍",
+          "category": "O2O Shop",
+          "district": "新界",
+          "geometry": {
+            "coordinates": [22.4649460694737, 114.002966424276],
+            "type": "Point"
+          },
+          "opening": "星期一至日 11:00am – 8:00pm",
+          "shop": "天水圍天一商城店",
+          "specialOpening": "天水圍天一商城店將於2月11日開幕！\n限時７日，全場95折！",
+          "subdistrict": "元朗區"
+        }
+      ]
+    },
+    "eng": {
+      "areaList": {
+        "Hong Kong Island": [
+          "Aberdeen",
+          "Admiralty",
+          "Causeway Bay",
+          "Central",
+          "Chai Wan",
+          "Fortress Hill",
+          "Happy Valley",
+          "Heng Fa Chuen",
+          "Kennedy Town",
+          "Lei Tung",
+          "North Point",
+          "Pok Fu Lam",
+          "Quarry Bay",
+          "Sai Wan",
+          "Sai Wan Ho",
+          "Sai Ying Pun",
+          "Shau Kei Wan",
+          "Siu Sai Wan",
+          "South Horizons",
+          "Tai Koo",
+          "Wan Chai"
+        ],
+        "Kowloon": [
+          "Cheung Sha Wan",
+          "Diamond Hill",
+          "Ho Man Tin",
+          "Hung Hom",
+          "Kai Tak",
+          "Kowloon Bay",
+          "Kowloon City",
+          "Kowloon Tong",
+          "Kwun Tong",
+          "Lai Chi Kok",
+          "Lam Tin",
+          "Lok Fu",
+          "Mei Foo",
+          "Mong Kok",
+          "Mong Kok West",
+          "Mong kok",
+          "Ngau Chi Wan",
+          "Olympic",
+          "Tai Kok Tsui",
+          "Tiu Keng Leng",
+          "To Kwa Wan",
+          "Tsim Sha Tsui",
+          "Tsz Wan Shan",
+          "Whampao",
+          "Wong Tai Sin",
+          "Yau Tong"
+        ],
+        "New Territories": [
+          "Fanling",
+          "Fo Tan",
+          "Hang Hau",
+          "Hin Keng",
+          "Kam Sheung Road",
+          "Kwai Fong",
+          "Ma On Shan",
+          "Ma Wan",
+          "Po Lam",
+          "Sai Kung",
+          "Science Park",
+          "Sham Tseng",
+          "Shatin",
+          "Shatin Wai",
+          "Sheung Shui",
+          "Siu Hong",
+          "Tai Po",
+          "Tai Po Market",
+          "Tai Wai",
+          "Tai Wo",
+          "Tin Shui Wai",
+          "Tsing Yi",
+          "Tsuen Wan",
+          "Tsuen Wan West",
+          "Tuen Mun",
+          "Tung Chung",
+          "Yuen Long"
+        ]
+      },
+      "details": [
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop G33C&D, Marina Square West Centre, 12A South Horizon Drive, South Horizons, Ap Lei Chau, Hong Kong",
+          "area": "South Horizons",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.244067, 114.14681],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "South Horizon - Marina Square (West) Shop",
+          "specialOpening": "",
+          "subdistrict": "Southern District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 121, G/F, Podium B of Riviera Gardens, No. 2-12 Yi Hong Street, Tsuen Wan, New Territories",
+          "area": "Tsuen Wan",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3619232, 114.11297],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 12:00nn - 9:00pm; Sat, Sun & PH 11:00am – 9:00pm",
+          "shop": "Tsuen Wan - Riviera Gardens Shop",
+          "specialOpening": "",
+          "subdistrict": "Tsuen Wan District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop N61A, G/F, No. 1-11, 15-17 Mount Sterling Mall, No. 10-16 Lai Wan Road, Mei Foo Sun Chuen, Kowloon",
+          "area": "Mei Foo",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3379115, 114.13849],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Mei Foo - Mount Sterling Mall Shop",
+          "specialOpening": "",
+          "subdistrict": "Sham Shui Po District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop A, G/F, Peace Tower, No. 30-32 Robinson Road, Central, Hong Kong",
+          "area": "Central",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.279358, 114.15174],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Central - Robinson Road Shop",
+          "specialOpening": "",
+          "subdistrict": "Central and Western"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop UG049, Metro City Plaza Phase II, Po Lam, Tseung Kwan O, New Territories",
+          "area": "Po Lam",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3228355, 114.25842],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Po Lam - Metro City Plaza Shop",
+          "specialOpening": "",
+          "subdistrict": "Sai Kung District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 216, Paradise Mall, Heng Fa Chuen, Hong Kong",
+          "area": "Heng Fa Chuen",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2771393, 114.23967],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Heng Fa Chuen - Paradise Mall Shop",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 5, G/F, Fung Cheong Building, No. 38-48 Wharf Road, North Point, Hong Kong",
+          "area": "North Point",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2917451, 114.19601],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 12:00nn - 9:00pm; Sat, Sun & PH 10:00am – 9:00pm",
+          "shop": "North Point - Wharf Shop",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "TIS 5, Tin Shui Wai MTR Station, New Territories",
+          "area": "Tin Shui Wai",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.448281, 114.00468],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 12:00nn - 9:00pm; Sat, Sun & PH 11:00am – 9:00pm",
+          "shop": "Tin Shui Wai MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Yuen Long District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "HAH7, Hang Hau MTR Station, Tseung Kwan O, New Territories",
+          "area": "Hang Hau",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.315596, 114.26439],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Hang Hau MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Sai Kung District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "TAW49, Tai Wai MTR Station, New Territories",
+          "area": "Tai Wai",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3731397, 114.179],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Tai Wai MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Sha Tin District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop C, G/F, Yan Yee Building, No. 88 Kin Yip Street, Yuen Long, New Territories",
+          "area": "Yuen Long",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4424223, 114.0314],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 8:00pm",
+          "shop": "Yuen Long - Kin Yip Street Shop",
+          "specialOpening": "",
+          "subdistrict": "Yuen Long District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop B, No. 79 First Street, Sai Ying Pun, Sai Wan, Hong Kong",
+          "area": "Sai Ying Pun",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2866515, 114.14183],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 12:00nn - 9:00pm; Sat, Sun & PH 10:00am – 9:00pm",
+          "shop": "Sai Ying Pun - First Street Shop",
+          "specialOpening": "",
+          "subdistrict": "Central and Western"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 3, LG/F, Smithfield Walk, No. 45-51 Smithfield Road, Kennedy Town, Sai Wan, Hong Kong",
+          "area": "Kennedy Town",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2816356, 114.12809],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 11:00am - 9:00pm; Sat, Sun & PH 10:00am – 9:00pm",
+          "shop": "Kennedy Town - Smithfield Road Shop",
+          "specialOpening": "",
+          "subdistrict": "Central and Western"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 2407&2408, L2, MOS Town, Ma On Shan, New Territories",
+          "area": "Ma On Shan",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4242753, 114.23278],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 8:30pm",
+          "shop": "Ma On Shan - Sunshine City Plaza Shop",
+          "specialOpening": "",
+          "subdistrict": "Tai Po District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 4001- 4002, Level 1, Tai Po Plaza, No. 1 On Tai Road, Tai Po, New Territories",
+          "area": "Tai Po",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.45281, 114.17052],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 11:30am - 8:30pm; Sat, Sun & PH 10:30am – 8:30pm",
+          "shop": "Tai Po - Tai Po Plaza Shop",
+          "specialOpening": "",
+          "subdistrict": "Tai Po District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 125, G/F, Flora Plaza, No. 88 Pak Wo Road, Fanling, New Territories",
+          "area": "Fanling",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4858038, 114.14121],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:30am – 8:30pm",
+          "shop": "Fanling - Flora Plaza Shop",
+          "specialOpening": "",
+          "subdistrict": "North District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "TSY 6, Tsing Yi MTR Station, New Territories",
+          "area": "Tsing Yi",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.358487, 114.10726],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Tsing Yi MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Kwai Tsing District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "KOW 66, Kowloon MTR Station, Tsim Sha Tsui, Kowloon (Unpaid concourse)",
+          "area": "Tsim Sha Tsui",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.304394, 114.16143],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Kowloon MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Yau Tsim Mong District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 5L, G/F, Ho Fu Building, Whampoa Estate, No. 36D Tak Man Street, Hung Hom, Kowloon",
+          "area": "Hung Hom",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3055915, 114.18579],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Hung Hom - Whampoa Estate Shop",
+          "specialOpening": "",
+          "subdistrict": "Kowloon City District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop G33, Domain, No. 38 Ko Chiu Road, Yau Tong, Kowloon",
+          "area": "Yau Tong",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.2964531, 114.2365],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Yau Tong - Domain Shop",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 58-58A, G/F, Amoy Plaza, No. 77 Ngau Tau Kok Road, Kowloon Bay, Kowloon",
+          "area": "Kowloon Bay",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3247088, 114.21548],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Kowloon Bay - Amoy Plaza Shop",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "TIK 7, Tiu Keng Leng MTR Station, Tseung Kwan O, New Territories",
+          "area": "Tiu Keng Leng",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3040579, 114.25163],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Tiu Keng Leng MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Sai Kung District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "TUC 27, 1/F, Tung Chung MTR Station, Tung Chung, New Territories",
+          "area": "Tung Chung",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.289163, 113.94126],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Tung Chung MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Islands"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "LCK 9, Lai Chi Kok MTR Station, Kowloon",
+          "area": "Lai Chi Kok",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.33718, 114.14805],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Lai Chi Kok MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Sham Shui Po District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 122B2, 1/F, Liberté Place, No. 833 Lai Chi Kok Road, Lai Chi Kok, Kowloon",
+          "area": "Lai Chi Kok",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.335267, 114.14897],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Lai Chi Kok - Liberté Place Shop",
+          "specialOpening": "",
+          "subdistrict": "Sham Shui Po District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 8, G/F, Fullview Garden, No. 18 Siu Sai Wan Road, Chai Wan, Hong Kong",
+          "area": "Chai Wan",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.262719, 114.25173],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Siu Sai Wan - Fullview Garden Shop",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop L3, G/F, Fitfort, North Point, Hong Kong",
+          "area": "North Point",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2916704, 114.20344],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 11:00am - 9:00pm; Sat, Sun & PH 10:00am – 9:00pm",
+          "shop": "North Point Fitfort Shop",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "G/F, No. 45, Tin Liu New Village, Ma Wan, New Territories",
+          "area": "Ma Wan",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.351958, 114.05838],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 9:00pm",
+          "shop": "Ma Wan Shop",
+          "specialOpening": "",
+          "subdistrict": "Tsuen Wan District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 412, G/F, Lok Hin Terrace, No. 350 Chai Wan Road, Chai Wan, Hong Kong",
+          "area": "Chai Wan",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2638824, 114.24054],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 9:00pm",
+          "shop": "Chai Wan - Lok Hin Terrace Shop",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop A, G/F, Greenfield Court, No. 9-11 Shatin Wai Road, Shatin, New Territories",
+          "area": "Shatin Wai",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3799494, 114.19586],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:30am – 8:30pm",
+          "shop": "Sha Tin - Greenfield Court Shop",
+          "specialOpening": "",
+          "subdistrict": "Sha Tin District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop A53A, G/F, Kwai Chung Plaza, No. 7-11 Kawi Foo Road, Kwai Chung, New Territories",
+          "area": "Kwai Fong",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3584199, 114.12749],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Kwai Chung Plaza Shop",
+          "specialOpening": "",
+          "subdistrict": "Kwai Tsing District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "TAP 3, Tai Po Market MTR Station, Tai Po, New Territories",
+          "area": "Tai Po Market",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4442739, 114.17083],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Tai Po Market MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Tai Po District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 233E&284A, 1/F, Fanling Centre, No. 33 San Wan Road, Fanling, New Territories",
+          "area": "Fanling",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.490836, 114.14065],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:30am – 8:30pm",
+          "shop": "Fanling Center Shop",
+          "specialOpening": "",
+          "subdistrict": "North District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop B, G/F, Charming Garden, No. 16 Hoi Ting Road, Mong Kok West, Kowloon",
+          "area": "Mong Kok West",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3148072, 114.16402],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Mong Kok - Charming Garden Shop",
+          "specialOpening": "",
+          "subdistrict": "Yau Tsim Mong District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop G5, G/F, Prime View Garden, No. 2 King Fung Path, Tuen Mun, New Territories",
+          "area": "Tuen Mun",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4031874, 113.97968],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 12:00nn - 9:00pm; Sat, Sun & PH 11:00am – 9:00pm",
+          "shop": "Tuen Mun - Prime View Garden Shop",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "SIH 17, Siu Hong MTR station, Tuen Mun, New Territories",
+          "area": "Siu Hong",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4111638, 113.97865],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Siu Hong MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 2025, Level 2, D Park, No. 398 Castle Peak Road, Tsuen Wan, New Territories",
+          "area": "Tsuen Wan",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3762088, 114.11188],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 11:00am - 9:00pm; Sat, Sun & PH 10:00am – 9:00pm",
+          "shop": "Tsuen Wan - D Park Shop",
+          "specialOpening": "",
+          "subdistrict": "Tsuen Wan District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "KSR 8, Kam Sheung Road MTR Station, Yuen Long, New Territories",
+          "area": "Kam Sheung Road",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4354344, 114.06289],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Kam Sheung Road MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Yuen Long District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 1, G/F, Tivoli Garden Shopping Centre, No. 75 Tsing King Road, Tsing Yi, New Territories",
+          "area": "Tsing Yi",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3549531, 114.10747],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 11:00am - 9:00pm; Sat, Sun & PH 10:00am – 9:00pm",
+          "shop": "Tsing Yi - Tivioli Garden Shop",
+          "specialOpening": "",
+          "subdistrict": "Kwai Tsing District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop D, G/F, Chit Wing House, No. 2/6 Kau Yuk Road, Yuen Long, New Territories",
+          "area": "Yuen Long",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4430278, 114.0285],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Yuen Long - Kau Yuk Road Shop",
+          "specialOpening": "",
+          "subdistrict": "Yuen Long District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 2C, Site 1, L4, Sceneway Garden, No. 8 Sceneway Road, Lam Tin, Kowloon",
+          "area": "Lam Tin",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3067922, 114.23384],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Lam Tin - Sceneway Plaza Shop",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 7, G/F, Metropolitan Rise, No. 28 Ma Tau Kok Road, To Kwa Wan, Kowloon",
+          "area": "To Kwa Wan",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3222846, 114.18922],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "To Kwa Wan - Ma Tau Kok Road Shop",
+          "specialOpening": "",
+          "subdistrict": "Kowloon City District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop G84B, G/F, Phase 1, Fortune Kingswood, No. 12-18 Tin Yan Road, Tin Shui Wai, New Territories",
+          "area": "Tin Shui Wai",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4574774, 114.00267],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:30am – 9:00pm",
+          "shop": "Tin Shui Wai - Fortune Kingswood Shop",
+          "specialOpening": "",
+          "subdistrict": "Yuen Long District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 6, G/F, Happy Court, No. 39E Sing Woo Road, Happy Valley, Hong Kong",
+          "area": "Happy Valley",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2690658, 114.18602],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Happy Valley - Sing Woo Road Shop",
+          "specialOpening": "",
+          "subdistrict": "Wan Chai District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop G15, G/F, Emperor Group Centre, No. 288 Hennessy Road, Wan Chai, Hong Kong",
+          "area": "Wan Chai",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2776855, 114.17682],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 9:00pm",
+          "shop": "Wan Chai - Emperor Group Centre Shop",
+          "specialOpening": "",
+          "subdistrict": "Wan Chai District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 9, G/F, Kai Tak Garden, No. 121 Choi Hung Road, Wong Tai Sin, Kowloon",
+          "area": "Wong Tai Sin",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3376972, 114.19447],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 8:00pm",
+          "shop": "Wong Tai Sin - Kai Tak Garden Shop",
+          "specialOpening": "",
+          "subdistrict": "Wong Tai Sin District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 2029, L2, Sheung Shui Centre, No. 3 Chi Cheong Road, Sheung Shui, New Territories",
+          "area": "Sheung Shui",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.5010601, 114.12931],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 8:30pm",
+          "shop": "Sheung Shui Centre Shop",
+          "specialOpening": "",
+          "subdistrict": "North District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 6, G/F, Hang Lung Mansion, No. 580 Nathan Road, Mong Kok, Kowloon",
+          "area": "Mong Kok",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3153341, 114.1705155],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Mong Kok - Dundas Street Shop",
+          "specialOpening": "",
+          "subdistrict": "Yau Tsim Mong District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 7, G/F, 1-11 Spring Garden Lane, Wan Chai, Hong Kong",
+          "area": "Wan Chai",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2761934, 114.17275],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Wan Chai - Spring Garden Lane Shop",
+          "specialOpening": "",
+          "subdistrict": "Wan Chai District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 10, G/F, Block E, Town Centre, Fairview Park, Yuen Long, New Territories",
+          "area": "Yuen Long",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4771388, 114.045149],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Yuen Long - Fairview Park Shop",
+          "specialOpening": "",
+          "subdistrict": "Yuen Long District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 95A, G/F, No. 69-119 Broadway, Mei Foo Sun Chuen, Mei Foo, Kowloon",
+          "area": "Mei Foo",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3359726, 114.14138],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Mei Foo Plaza Shop",
+          "specialOpening": "",
+          "subdistrict": "Sham Shui Po District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "TSW 8, Tsuen Wan MTR Station, New Territories",
+          "area": "Tsuen Wan",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3737277, 114.1177077],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 12:00nn - 9:00pm; Sat, Sun & PH 11:00am – 9:00pm",
+          "shop": "Tsuen Wan Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Tsuen Wan District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop G36-37, Plaza Ascot, Fo Tan, New Territories",
+          "area": "Fo Tan",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.399935, 114.20221],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 8:30pm",
+          "shop": "Fo Tan - Plaza Ascot Shop",
+          "specialOpening": "",
+          "subdistrict": "North District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 6, G/F, Ocean Walk, No. 168-236 Wu Chui Road, Tuen Mun, New Territories",
+          "area": "Tuen Mun",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3726825, 113.96634],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Tsuen Mun - Ocean Walk Shop",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop E, G/F, Caine Mansion, No. 80-88 Caine Road, Central, Hong Kong​",
+          "area": "Central",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2817443, 114.15125],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 12:00nn - 9:00pm; Sat, Sun & PH 10:00am – 9:00pm",
+          "shop": "Central - Caine Road Shop",
+          "specialOpening": "",
+          "subdistrict": "Central and Western"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "TWW 24-25, Tsuen Wan West MTR Station, New Territories",
+          "area": "Tsuen Wan West",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.367556, 114.1105736],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Tsuen Wan West MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Tsuen Wan District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "WHA W1, Whampoa MTR Station, Hung Hom, Kowloon",
+          "area": "Whampao",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3052332, 114.1884204],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Whampao MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Kowloon City District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "LET 1, Lei Tung MTR Station, Ap Lei Chau, Hong Kong",
+          "area": "Lei Tung",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.243741, 114.1552903],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Lei Tung MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Southern District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 3, G/F, Greenery Plaza, No. 3 Chui Yi Street, Tai Po, New Territories",
+          "area": "Tai Po",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.452516, 114.1635904],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 11:00am - 9:00pm; Sat, Sun & PH 10:00am – 9:00pm",
+          "shop": "Tai Po - Greenery Plaza Shop",
+          "specialOpening": "",
+          "subdistrict": "Tai Po District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "KAT 4 , Kai Tak MTR Station, Kowloon (near MTR Exit D)",
+          "area": "Kai Tak",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3308862, 114.1991582],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Kai Tak MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Kowloon City District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "HIK 5, Hin Keng MTR Station, Tai Wai, New Territories (near MTR Exit A)",
+          "area": "Hin Keng",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3636515, 114.1708798],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 11:30am - 8:30pm; Sat, Sun & PH 10:00am – 9:00pm",
+          "shop": "Hin Keng MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Sha Tin District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "DIH 109, Diamond Hill MTR station, Kowloon (near MTR Exit B)",
+          "area": "Diamond Hill",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3396421, 114.2016546],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Diamond Hill MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Wong Tai Sin District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop B08, First Floor, Queensway Plaza, Admiralty, Hong Kong​",
+          "area": "Admiralty",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2791978, 114.1644627],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 8:00pm",
+          "shop": "Admiralty - Queensway Plaza Shop",
+          "specialOpening": "",
+          "subdistrict": "Central and Western"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "FOH 13, Fortress Hill MTR Station, Hong Kong",
+          "area": "Fortress Hill",
+          "category": "O2O Shop",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2882568, 114.1939502],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am– 9:00pm",
+          "shop": "Fortress Hill MTR Station Shop",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "TUM 19 & 20, Tuen Mun MTR Station, New Territories (Paid Area)",
+          "area": "Tuen Mun",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3952839, 113.9730157],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 12:00nn - 9:00pm; Sat, Sun & PH 11:00am – 9:00pm",
+          "shop": "Tuen Mun MTR Station",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 9, G/F, Belvedere Square, Belvedere Garden Phase 3, No. 625 Castle Peak Road, Tsuen Wan, New Territories",
+          "area": "Tsuen Wan",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3721792, 114.1011433],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:30am – 9:00pm",
+          "shop": "Tsuen Wan - Belvedere Garden Shop",
+          "specialOpening": "",
+          "subdistrict": "Tsuen Wan District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop P24-P25, Podium, Telford Plaza, Kowloon Bay, Kowloon (Opposite to MCL Cinema)",
+          "area": "Kowloon Bay",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.322536, 114.212176],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Kowloon Bay - Telford Plaza Shop",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 2, G/F, Eastway Towers, Block 3, 59-99 Shau Kei Wan Main Street East, Shau Kei Wan, Hong Kong",
+          "area": "Shau Kei Wan",
+          "category": "Pick-up Service Partner",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.27972, 114.23046],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 21:00pm",
+          "shop": "Shau Kei Wan - Shau Kei Wan Main Street East FoodWise Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 3, G/F, Southern Lodge, No. 358 Un Chau Street, Cheung Sha Wan, Kowloon",
+          "area": "Cheung Sha Wan",
+          "category": "Pick-up Service Partner",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.33796, 114.15621],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 8:00pm",
+          "shop": "Cheung Sha Wan - Un Chau Street FoodWise Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Sham Shui Po District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "N",
+          "address": "Shop No. 9, G/F, Homantin Plaza, Ho Man Tin, Kowloon",
+          "area": "Ho Man Tin",
+          "category": "Pick-up Service Partner",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.316137, 114.181546],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Ho Man Tin - Homantin Plaza Hung Fook Tong Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Kowloon City District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop No. 301B, 3/F, Sau Mau Ping Shopping Centre, Kwun Tong, Kowloon",
+          "area": "Kwun Tong",
+          "category": "Pick-up Service Partner",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.319502, 114.232188],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:30am – 9:00pm",
+          "shop": "Kwun Tong - Sau Mau Ping Shopping Centre Hung Fook Tong Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop No.7, Level 3, Bellagio Mall, No.33 Castle Peak Road, Sham Tseng, NT",
+          "area": "Sham Tseng",
+          "category": "Pick-up Service Partner",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.36738, 114.0614],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Sham Tseng - Bellagio Mall Hung Fook Tong Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Tsuen Wan District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop 306, 3/F, Cityplaza, 18 Taikoo Shing Road, Island East, Hong Kong",
+          "area": "Tai Koo",
+          "category": "Pick-up Service Partner",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.285682, 114.217531],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 7:30pm",
+          "shop": "Tai Koo - Cityplaza GIORDANO Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop 49, L3, Phase 3, Shatin Plaza, Shatin, NT",
+          "area": "Shatin",
+          "category": "Pick-up Service Partner",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.38149, 114.18892],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 0an – 9:00pm",
+          "shop": "Shatin - Shatin Plaza GIORDANO Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Sha Tin District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop 125-128, Level 1, Commercial Accommodation of New Jade Gardens, Chai Wan, Hong Kong",
+          "area": "Chai Wan",
+          "category": "Pick-up Service Partner",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.26771, 114.24054],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 7:30pm",
+          "shop": "Chai Wan - New Jade Gardens GIORDANO Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop UG05, UG/F, The Westwood, 8 Belcher's Street, Sai Wan, Hong Kong",
+          "area": "Sai Wan",
+          "category": "Pick-up Service Partner",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.285761, 114.133184],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 8:00pm",
+          "shop": "Sai Wan - The Westwood Baleno Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Central and Western"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop 230-231, 2/F, Tai Wo Plaza, 12 Tai Po Tai Wo Road, Tai Po, N.T.",
+          "area": "Tai Wo",
+          "category": "Pick-up Service Partner",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.450751, 114.160357],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 9:30am – 8:30pm",
+          "shop": "Tai Wo - Tai Wo Plaza Baleno Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Tai Po District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop UG48, UG/F, Olympian City 2, Kowloon",
+          "area": "Olympic",
+          "category": "Pick-up Service Partner",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.317258, 114.162105],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 8:00pm",
+          "shop": "Olympic - Olympian City 2 GIORDANO Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Yau Tsim Mong District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "G/F & M/F, On Lok Yuen Bldg., 27 Des Voeux Road, Central, Hong Kong",
+          "area": "Central",
+          "category": "Pick-up Service Partner",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.283102, 114.157868],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 7:00pm",
+          "shop": "Central - On Lok Yuen GIORDANO Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Central and Western"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop 39-42, 1/F, Tuen Mun Town Plaza, Phase II, Tuen Mun, N.T.",
+          "area": "Tuen Mun",
+          "category": "Pick-up Service Partner",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.394221, 113.976417],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 8:00pm",
+          "shop": "Tuen Mun - Tuen Mun Town Plaza (II) GIORDANO Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop 4, G/F., Aberdeen Centre, Aberdeen, Hong Kong",
+          "area": "Aberdeen",
+          "category": "Pick-up Service Partner",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.248838, 114.153923],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:30am – 8:00pm",
+          "shop": "Aberdeen - Aberdeen Centre GIORDANO Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Southern District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop 22-23, Basement 2, Langham Place, 8 Argyle St, Mong Kok, Kowloon",
+          "area": "Mong kok",
+          "category": "Pick-up Service Partner",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.318043, 114.168798],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 8:00pm",
+          "shop": "Mong kok - Langham Place CATALO Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Yau Tsim Mong District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop No. 3133A, Third Floor, Zone A, Lok Fu Place, 198 Junction Road, Kowloon",
+          "area": "Lok Fu",
+          "category": "Pick-up Service Partner",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.338461, 114.187006],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:30pm",
+          "shop": "Lok Fu - Lok Fu Place Hung Fook Tong Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Wong Tai Sin District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "N",
+          "address": "Shop C, Ground Floor, On Tai Building, Nos. 1-3 Wu Nam Street, Aberdeen, Hong Kong",
+          "area": "Aberdeen",
+          "category": "Pick-up Service Partner",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.247751, 114.155608],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 8:00am- 9:30pm; Sat, Sun & PH 9:30am – 9:30pm",
+          "shop": "Aberdeen - Wu Nam Street Hung Fook Tong Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Southern District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop No.A1, G/F, 238 King's Road, North Point, HK",
+          "area": "Fortress Hill",
+          "category": "Pick-up Service Partner",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.288505, 114.193846],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 8:00am- 10:00pm; Sat, Sun & PH 8:30am – 10:00pm",
+          "shop": "Fortress Hill - Fortress Metro Tower Hung Fook Tong Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "N",
+          "address": "Shop No.S221, Level 2, Chuk Yuen Shopping Centre, Chuk Yuen (South) Estate, Kowloon",
+          "area": "Wong Tai Sin",
+          "category": "Pick-up Service Partner",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.344894, 114.192941],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 9:00pm",
+          "shop": "Wong Tai Sin - Chuk Yuen Shopping Centre Hung Fook Tong Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Wong Tai Sin District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "N",
+          "address": "Shop No.3, G/F, Chung Fu Shopping Centre",
+          "area": "Tin Shui Wai",
+          "category": "Pick-up Service Partner",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.461223, 113.997921],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 9:30am – 10:00pm",
+          "shop": "Tin Shui Wai - Chung Fu Shopping Centre Hung Fook Tong Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Yuen Long District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop No.2, Ground Floor, Tin Chak Shopping Centre, Tin Chak Estate, Nos.71, 73, 75 & 77 Tin Shui Road",
+          "area": "Tin Shui Wai",
+          "category": "Pick-up Service Partner",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.468526, 113.998647],
+            "type": "Point"
+          },
+          "opening": "Mon - Fri 10:00am- 9:00pm; Sat, Sun & PH 11:00am – 8:30pm",
+          "shop": "Tin Shui Wai - Tin Chak Shopping Centre Hung Fook Tong Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Yuen Long District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "N",
+          "address": "Shop No.218A, 2/F, Heng On Estate Commercial Centre, Heng On Estate, Ma On Shan",
+          "area": "Ma On Shan",
+          "category": "Pick-up Service Partner",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.416739, 114.227938],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 9:00pm",
+          "shop": "Ma On Shan - Heng On Estate Commercial Centre Hung Fook Tong Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Sha Tin District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop No. 356C on Level lI , Zone E, Tai Po Mega Mall , Tai Po, N.T",
+          "area": "Tai Po",
+          "category": "Pick-up Service Partner",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.449598, 114.168703],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:30am – 8:30pm",
+          "shop": "Tai Po - Tai Po Mega Mall Hung Fook Tong Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Tai Po District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "N",
+          "address": "Shop No. 32, Ground Floor, Yat Tung Shopping Centre, Yat Tung Estate, 8 Yat Tung Street, Tung Chung, N.T.",
+          "area": "Tung Chung",
+          "category": "Pick-up Service Partner",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.281516, 113.934875],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:30am – 10:00pm",
+          "shop": "Tung Chung - Yat Tung Shopping Centre Hung Fook Tong Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Islands"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop N109-110, Temple Mall, Wong Tai Sin, Kowloon",
+          "area": "Wong Tai Sin",
+          "category": "Pick-up Service Partner",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.341899, 114.192515],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 8:00pm",
+          "shop": "Wong Tai Sin - Temple Mall GIORDANO Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Wong Tai Sin District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop U118, UG1 Floor, Lok Fu Plaza, 198 Junction Rd, Kowloon",
+          "area": "Lok Fu",
+          "category": "Pick-up Service Partner",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.337625, 114.187411],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 8:00pm",
+          "shop": "Lok Fu - Lok Fu Plaza GIORDANO Pickup Point",
+          "specialOpening": "",
+          "subdistrict": "Wong Tai Sin District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop 12, G/F, Metro Harbour Plaza, 8 Fuk Lee Street, Tai Kok Tsui\n \n                 \n\n\n\n \n",
+          "area": "Tai Kok Tsui",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.324811, 114.160502],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Tai Kok Tsui - Metro Harbour Plaza Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Yau Tsim Mong District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Near Shop 158, 1/F, Parklane Square, 2 Tuen Hi Road, Tuen Mun",
+          "area": "Tuen Mun",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.391256, 113.97731],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Tuen Mun  - Parklane Square Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "3/F, Po Lam Shopping Centre, 18 Po Lam Road North, Po Lam",
+          "area": "Po Lam",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.325266, 114.256226],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Tseung Kwan O - Po Lam Shopping Centre Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Sai Kung District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "G/F, Enterprise Place (5W), Science Park West Avenue of Hong Kong Science Park, Shatin, New Territories, Hong Kong",
+          "area": "Science Park",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.425791, 114.212489],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Sha Tin - Hong Kong Science Park Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Sha Tin District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop 31 - 33, Level 2, Sun Tuen Mun Centre, 55-65 Lung Mun Road, Tuen Mun, NT",
+          "area": "Tuen Mun",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.381332, 113.964516],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 5:00am - 1:00am",
+          "shop": "Tuen Mun - Sun Tuen Mun Shopping Centre Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Toilet Entrance, Near Thai Cuisine Restaurant, Ground Floor (Level 1), Zone S, H.A.N.D.S, Yau Oi Estate, Yau Oi Road, Tuen Mun, NT",
+          "area": "Tuen Mun",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.388052, 113.975599],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 4:00am - 00:30am",
+          "shop": "Tuen Mun - H.A.N.D.S Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Near shop L209, 2/F, Leung King Plaza,31 Tin King Road, Tuen Mun, NT",
+          "area": "Tuen Mun",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.406356, 113.9627],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Tuen Mun - Leung King Plaza Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Lift lobby, 3/F, Tin Chak Shopping Centre, 71, 73, 75 & 77 Tin Shui Road, Tin Shui Wai, Yuen Long, New Territories",
+          "area": "Tin Shui Wai",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.468524, 113.999034],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 6:00am - 00:00am",
+          "shop": "Tin Shui Wai - Tin Chak Shopping Centre Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Yuen Long District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "G19B, Citywalk 1, 1 Yeung Uk Road, Tsuen Wan, New Territories (opposite to the wet market)",
+          "area": "Tsuen Wan",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3700949854957, 114.11388090051],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 8:00pm",
+          "shop": "Tsuen Wan - Citywalk Shop",
+          "specialOpening": "",
+          "subdistrict": "Tsuen Wan District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "8 Lei Yue Mun Road, Kwun Tong, , Kowloon",
+          "area": "Kwun Tong",
+          "category": "Pick-up Service Partner",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3104298734073, 114.229178787922],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 9:00am – 9:00pm",
+          "shop": "Kwun Tong - Lei Yue Mun Road Shell Pickup Point ",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 2,1/F, Pier 8, Central Ferry Pier Link Building, Central, HK",
+          "area": "Central",
+          "category": "Pick-up Service Partner",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2866075151367, 114.161709633646],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:30am – 8:30pm",
+          "shop": "Central - Star Ferry Pier BOATAT Pickup Point ",
+          "specialOpening": "",
+          "subdistrict": "Central and Western"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop B3, G/F, Liadro Centre, 72 Hoi Yuen Road, Kwun Tong, KLN",
+          "area": "Kwun Tong",
+          "category": "Pick-up Service Partner",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.311861, 114.226549],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:30am – 8:30pm",
+          "shop": "Kwun Tong - Hoi Yuen Road BOATAT Pickup Point ",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop No.22F, Level 3, Shatin Centre, Shatin, New Territories",
+          "area": "Shatin",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3827161949306, 114.19040640853],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Shatin Shatin Centre Shop",
+          "specialOpening": "",
+          "subdistrict": "Sha Tin District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop G42-44 on Ground Floor, 8 Fuk Lee Street, Metro Harbour Plaza, Tai Kok Tsui, KLN",
+          "area": "Tai Kok Tsui",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3246824060659, 114.161492283539],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Tai Kok Tsui - Metro Harbour Plaza Shop",
+          "specialOpening": "",
+          "subdistrict": "Yau Tsim Mong District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 17, G/F, Sai Kung Garden, 16 Chan Man Street, Sai Kung, N.T.",
+          "area": "Sai Kung",
+          "category": "Pick-up Service Partner",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3822756292723, 114.272054912198],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Sai Kung - Sai Kung Garden BOATAT Pickup Point ",
+          "specialOpening": "",
+          "subdistrict": "Sai Kung District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Near Lung Yan House, Kam Lung Court, No. 1 Kam Ying Road, Ma On Shan, NT, HK",
+          "area": "Ma On Shan",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4261028992804, 114.240618393165],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Ma On Shan - Kam Lung Court Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Sha Tin District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Entrance to The Arcade, Core B, Level 3, Cyberport 3, 100 Cyberport Road, Pok Fu Lam, Hong Kong",
+          "area": "Pok Fu Lam",
+          "category": "e-locker",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2598483622408, 114.132027723275],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Pok Fu Lam - Cyberport 3 Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Southern District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Ground Floor, Tin Ma Court Commercial Centre, 55 Chuk Yuen Road, Wong Tai Sin, KL",
+          "area": "Wong Tai Sin",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3429173298637, 114.187183077141],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Wong Tai Sin - Tin Ma Court Commercial Centre Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Wong Tai Sin District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Near HSBC ATM, G/F, Perkins Road Dairy Farm Shopping Centre, No. 5 Perkins Road, Hong Kong",
+          "area": "Wan Chai",
+          "category": "e-locker",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2707331559227, 114.192077021998],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 8:00am – 10:00pm",
+          "shop": "Wan Chai - Perkins Road Dairy Farm Shopping Centre Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Wan Chai District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Under the escalator, G/F, Lincoln House, Taikoo Place, 979 King's Rd, Quarry Bay",
+          "area": "Quarry Bay",
+          "category": "e-locker",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2877824401792, 114.212265226261],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Quarry Bay - Lincoln House （Taikoo Place）Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Near lift no.29 to Pure FItness, 1/F, PCCW Tower, Taikoo Place, 979 King's Rd, Quarry Bay",
+          "area": "Quarry Bay",
+          "category": "e-locker",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2873593045646, 114.212320243448],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Quarry Bay - PCCW Tower （Taikoo Place）Alfred Smart Locker ",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Near lift no.29 to Pure FItness, 1/F, PCCW Tower, Taikoo Place, 979 King's Rd, Quarry Bay",
+          "area": "Kowloon Tong",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3371569115292, 114.175239956658],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 8:00am – 11:00pm",
+          "shop": "Kowloon Tong - Festival Walk Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Kowloon City District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Opposite to meter room, Camel Paint Building Block 3, 58-60 Hoi Yuen Road, Kwun Tong, KL",
+          "area": "Kwun Tong",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3104634140142, 114.224813658232],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Kwun Tong - Camel Paint Building Block 3 Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop B10A, B/F, Windsor House, 311 Gloucester Road, Causeway Bay, HK",
+          "area": "Causeway Bay",
+          "category": "e-locker",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.280651252681, 114.18709791035],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 10:00pm",
+          "shop": "Causeway Bay - Windsor House Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Wan Chai District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop 10A, 2/F ,Aberdeen Centre Phase 2 ,9 Nam Ning St, Aberdeen, HK",
+          "area": "Aberdeen",
+          "category": "e-locker",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.248434596871, 114.153352470436],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 10:00am – 10:00pm",
+          "shop": "Aberdeen - Aberdeen Centre Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Southern District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Opposite to Fortress, LG/F, Kowloon City Plaza, 128 Carpenter Road, Kowloon City, KL",
+          "area": "Kowloon City",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3312238663915, 114.188101872284],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 8:00am – 11:00pm",
+          "shop": "Kowloon City - Kowloon City Plaza Alfred Smart Locker\t",
+          "specialOpening": "",
+          "subdistrict": "Kowloon City District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Near to Shop 203, 2/F, Fung Tak Shopping Centre,111 Fung Tak Road, Diamond Hill, KL",
+          "area": "Diamond Hill",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3435606752905, 114.200674033647],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Diamond Hill - Fung Tak Shopping Centre Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Wong Tai Sin District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "ShopA37,Koon Wah Building, Shatin, N.T (Opposite to Yu Chui Shopping Centre) ",
+          "area": "Shatin",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3830566956519, 114.206704650265],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 8:00am – 10:00pm",
+          "shop": "Sha Tin - Koon Wah Building Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Sha Tin District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop 6, G/F, Wang Yip House, 8 Ka Lok Street, Kwung Tong, KL",
+          "area": "Kwun Tong",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3165842913893, 114.225495124415],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Kwun Tong - Ka Lok Street Washing Bo Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop 9A, Bamboo Court, Hoh Fuk Tong, Tuen Mun, NT",
+          "area": "Tuen Mun",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3971489926756, 113.977147626262],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Tuen Mun - Bamboo Court Washing Bo Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Opposite to shop 301, Sau Mau Ping Shopping Ctr, 101 Sau Ming Road, Sau Mau Ping, Kwun Tong, KL",
+          "area": "Kwun Tong",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3180118527185, 114.232683264328],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 6:00am – 12:00pm",
+          "shop": "Kwun Tong - Sau Mau Ping Shopping Centre Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Near Café de Carol, 1/F, Siu Sai Wan Plaza, 10 Siu Sai Wan Road, Siu Sai Wan, Hong Kong",
+          "area": "Siu Sai Wan",
+          "category": "e-locker",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2625986117576, 114.248948432013],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Siu Sai Wan - Siu Sai Wan Plaza Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "M/F, Yu Chui Shopping Centre, 2 Ngau Pei Sha Street, Siu Lek Yuen, Sha Tin, NT",
+          "area": "Shatin",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3823440172452, 114.205449762483],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 7:00am – 12:00pm",
+          "shop": "Sha Tin - Yu Chui Shopping Centre Alfred Smart Locker (No frozen and chilled items allowed)",
+          "specialOpening": "",
+          "subdistrict": "Sha Tin District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Open space no. 1 (near Shop no. 103), 1st floor, Dawning Views Shopping Plaza, No. 23 Yat Ming Road, Fanling, N.T.",
+          "area": "Fanling",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4871807514767, 114.144392854529],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Fanling - Dawning Views Shopping Plaza Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "North District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop S162 ,2/F, THE CAPITAL, 61-65 CHATHAM ROAD SOUTH, TSIM SHA TSUI, KL",
+          "area": "Tsim Sha Tsui",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.2999579519851, 114.175912337339],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 10:00pm",
+          "shop": "Tsim Sha Tsui - THE CAPITAL Alfred Smart Locker (No frozen and chilled items allowed)",
+          "specialOpening": "",
+          "subdistrict": "Yau Tsim Mong District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Right Handside of Car Park Entrance, G/F, NEO, 123 Hoi Bun Road, Kwun Tong,KL",
+          "area": "Kwun Tong",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3141298175453, 114.216381056943],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Kwun Tong - NEO Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "G/F, Tuen Mun Central Square, No. 22 Hoi Wing Rd, Tuen Mun, N.T",
+          "area": "Tuen Mun",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3815025772333, 113.972206096857],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Tuen Mun - Tuen Mun Central Square Alfred Smart Locker (No frozen and chilled items allowed)",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "G/F, On Hong House, Tsz On Court, No. 12 Yan Wah St, Tsz Wan Shan, Kowloon",
+          "area": "Tsz Wan Shan",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3483950600492, 114.201339641602],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Tsz Wan Shan - Tsz On Court Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Wong Tai Sin District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Car Park, G/F, 1 Wang Kwong Rd, Kowloon Bay, Hong Kong",
+          "area": "Kowloon Bay",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3217047830643, 114.20643227413],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Kowloon Bay - Billion Centre Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "3/F, Millennium City 3, 370 Kwun Tong Road, Kwun Tong, KL",
+          "area": "Kwun Tong",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3148063167274, 114.220092593164],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Kwun Tong - Millennium City 3 Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Kwun Tong District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "4/F Lift lobby of office building (Next to information center), Langham Place, 8 Argyle Street, Mong Kok, KL",
+          "area": "Mong Kok",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3185354849026, 114.168498432085],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 11:00pm",
+          "shop": "Mong Kok - Langham Place Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Yau Tsim Mong District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "24 Tit Shu St, Tai Kok Tsui",
+          "area": "Tai Kok Tsui",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3198913359135, 114.163237882085],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Tai Kok Tsui - Tit Shu Street 365 Laundry Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Yau Tsim Mong District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Site LK.03, 2nd floor, Fu Tai Shopping Centre, Fu Tai Estate, Tuen Mun, New Territories (opposite to Fu Tai Post Office)",
+          "area": "Tuen Mun",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4137947955882, 113.983070533143],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Tuen Mun - Fu Tai Shopping Centre Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "G41-47, 100 Granville Road, Harbour Crystal Centre, Tsim Sha Tsui",
+          "area": "Tsim Sha Tsui",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3009402462775, 114.178792581361],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Tsim Sha Tsui - Harbour Crystal Centre Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Yau Tsim Mong District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Next to Watson's, 2/F, Choi Wan Shopping Center (Phase 3), Choi Wan (I) Estate, 45 Clear Water Bay Road, Ngau Chi Wan, Kowloon, Hong Kong",
+          "area": "Ngau Chi Wan",
+          "category": "e-locker",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3339046314317, 114.214914340138],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Ngau Chi Wan - Choi Wan Shopping Center Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Wong Tai Sin District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Shop A, G/F, Man Hing House, 122&124 Sai Wan Ho Street, Sai Wan Ho, Hong Kong Island, Hong Kong",
+          "area": "Sai Wan Ho",
+          "category": "e-locker",
+          "district": "Hong Kong Island",
+          "geometry": {
+            "coordinates": [22.2821334792012, 114.221582387624],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Sai Wan Ho - Sai Wan Ho Street WASHours Alfred Smart Locker",
+          "specialOpening": "",
+          "subdistrict": "Eastern District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop D, G/F, TST Tower, No.388 Un Chau Street, Cheung Sha Wan, Kowloon",
+          "area": "Cheung Sha Wan",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3384943967427, 114.155560660773],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Cheung Sha Wan - Un Chau Street Shop",
+          "specialOpening": "",
+          "subdistrict": "Sham Shui Po District"
+        },
+        {
+          "acceptChill": "N",
+          "acceptFrozen": "N",
+          "address": "Lower Ground First Floor, Kam Ying Court Shopping Centre, Ma On Shan, NT",
+          "area": "Ma On Shan",
+          "category": "e-locker",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.42397, 114.2384],
+            "type": "Point"
+          },
+          "opening": "24 hours",
+          "shop": "Kam Ying Court Shopping Centre",
+          "specialOpening": "",
+          "subdistrict": "Sha Tin District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop No. G15 on Ground Floor of Green Code Plaza, No.1 Ma Sik Road, Fanling",
+          "area": "Fanling",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.5010090456324, 114.146109612457],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:30am – 8:30pm",
+          "shop": "Fanling - Green Code",
+          "specialOpening": "",
+          "subdistrict": "North District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 2B, Cheung Ying Alley, Third Ground Floor of Tropicana Gardens, 110 Lung Cheung Road, Wong Tai Sin",
+          "area": "Wong Tai Sin",
+          "category": "O2O Shop",
+          "district": "Kowloon",
+          "geometry": {
+            "coordinates": [22.3423747067946, 114.196966310607],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 8:00pm",
+          "shop": "Wong Tai Sin - Cheung Ying Alley",
+          "specialOpening": "",
+          "subdistrict": "Wong Tai Sin District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "LOP24, Long Ping Station, New Territories (near MTR Exit A)",
+          "area": "Yuen Long",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4476912528165, 114.02420398554],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 12:00nn – 9:00pm",
+          "shop": "Long Ping Station",
+          "specialOpening": "",
+          "subdistrict": "Yuen Long District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop No. 5B on the Podium First Floor of Caribbean Square  of Caribbean Coast , No. 1 Kin Tung Road, Tung Chung, New Territories",
+          "area": "Tung Chung",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.2918177764958, 113.949276453807],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 8:00pm",
+          "shop": "Tung Chung - Caribbean Square",
+          "specialOpening": "",
+          "subdistrict": "Islands"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop No.8, Level 2 of south wing of trend plaza, Tuen Mun, New Territories",
+          "area": "Tuen Mun",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.3921710234739, 113.975924076217],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 8:00pm",
+          "shop": "Tuen Mun - Trend Plaza",
+          "specialOpening": "",
+          "subdistrict": "Tuen Mun District"
+        },
+        {
+          "acceptChill": "Y",
+          "acceptFrozen": "Y",
+          "address": "Shop 1109, First Floor of One Sky Mall, No.8 Tin Sau Road, Tin Shui Wai, New Territories",
+          "area": "Tin Shui Wai",
+          "category": "O2O Shop",
+          "district": "New Territories",
+          "geometry": {
+            "coordinates": [22.4649460694737, 114.002966424276],
+            "type": "Point"
+          },
+          "opening": "Mon - Sun 11:00am – 8:00pm",
+          "shop": "Tin Shui Wai - One Sky Mall",
+          "specialOpening": "",
+          "subdistrict": "Yuen Long District"
+        }
+      ]
+    }
+  }
+}
